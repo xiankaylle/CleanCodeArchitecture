@@ -1,0 +1,12 @@
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\bin\Debug\net6.0\App.Models.deps.json
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\bin\Debug\net6.0\App.Models.dll
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\bin\Debug\net6.0\App.Models.pdb
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.csproj.AssemblyReference.cache
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.AssemblyInfoInputs.cache
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.AssemblyInfo.cs
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.csproj.CoreCompileInputs.cache
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.dll
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\refint\App.Models.dll
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\App.Models.pdb
+D:\Sample Programming\Dotnet\CleanCodeArchitecture\App.Models\obj\Debug\net6.0\ref\App.Models.dll
