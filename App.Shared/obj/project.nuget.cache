@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GVpSQ7nWcw8LJpiFYQw4NqR+AciTPx+UyLoDVrIjITCK49FJ+68Vl5yUWx6ctCd0AnhvzVcUI4jahD4pHvsSeQ==",
+  "dgSpecHash": "3VVrnWmmp0hIZmOiSQIC0SRRb50p0vRSUmgG5Hnuukz3xoOH2Ecc9jdeCu6pYnpo3+RCGIUJnaim3B6WN8cxWw==",
   "success": true,
-  "projectFilePath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj",
+  "projectFilePath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

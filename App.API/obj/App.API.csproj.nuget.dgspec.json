@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.API\\App.API.csproj": {}
+    "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.API\\App.API.csproj": {}
   },
   "projects": {
-    "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.API\\App.API.csproj": {
+    "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.API\\App.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.API\\App.API.csproj",
+        "projectUniqueName": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.API\\App.API.csproj",
         "projectName": "App.API",
-        "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.API\\App.API.csproj",
+        "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.API\\App.API.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.API\\obj\\",
+        "outputPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj"
               },
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj": {
+    "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj",
+        "projectUniqueName": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj",
         "projectName": "App.Core",
-        "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj",
+        "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\obj\\",
+        "outputPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -110,11 +110,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj"
               },
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj": {
+    "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
         "projectName": "App.Infrastructure",
-        "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\obj\\",
+        "outputPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -209,14 +209,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Core\\App.Core.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Core\\App.Core.csproj"
               },
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj"
               },
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj"
               }
             }
           }
@@ -263,14 +263,14 @@
         }
       }
     },
-    "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
+    "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj",
+        "projectUniqueName": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj",
         "projectName": "App.Models",
-        "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj",
+        "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\obj\\",
+        "outputPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -327,14 +327,14 @@
         }
       }
     },
-    "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj": {
+    "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj",
+        "projectUniqueName": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj",
         "projectName": "App.Shared",
-        "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj",
+        "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\App.Shared.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Shared\\obj\\",
+        "outputPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -355,8 +355,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
-                "projectPath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Models\\App.Models.csproj"
+              "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj": {
+                "projectPath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Models\\App.Models.csproj"
               }
             }
           }

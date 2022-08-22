@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FvXQ4ZeEuy3BnQiyu3d8KIoxzHrYpjpMIP91l7/KbEis8yaY3UOhcbGR0VCm34x6ELr1BZo8UKhRguKBYoOE2Q==",
+  "dgSpecHash": "rtLZ0WEbL9+VeQqgPURsmcBtExwHtT8o8XTx9hZMv/qSMeAH5JoIiNZDfWsp988OUVXUzmWrGhduKPR4DWhhgg==",
   "success": true,
-  "projectFilePath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\Development.Migrator\\Development.Migrator.csproj",
+  "projectFilePath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\Development.Migrator\\Development.Migrator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b71uAlpBG3JM+xEoUIivl+71507aR0ItL/JBFoFPGZlKixEJU+ZFAh7VUZzw4I9BS5kRy9FwN6sIeVA1XXIVeA==",
+  "dgSpecHash": "90JVb72hPKKebA98pVbqnByJ0R+wJBUXNxNF40BLokib5aag728a0TrYyPucWJVa+UhFptmfHGm40+52XuwX1Q==",
   "success": true,
-  "projectFilePath": "D:\\Sample Programming\\Dotnet\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
+  "projectFilePath": "D:\\Sample Programming\\Dotnet Core\\CleanCodeArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
